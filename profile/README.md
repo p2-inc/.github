@@ -1,3 +1,23 @@
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/244253/211920936-3280408e-5873-45e4-bc3c-b5a9f0bc1ad0.png#gh-light-mode-only" alt="Phase Two Logo" width="344px" height="auto" />
+    <img src="https://user-images.githubusercontent.com/244253/211920950-dcc9ae85-d3b3-4029-a2dc-069c663d6ee9.png#gh-dark-mode-only" alt="Phase Two Logo" width="344px" height="auto" />
+</p>
+
 Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a free deployment](https://phasetwo.io/dashboard/?utm_source=github&utm_medium=readme&utm_campaign=p2-inc). See the [announcement and demo video](https://phasetwo.io/blog/self-service/) for more information. :rocket:
 
+Phase Two builds on top of [Keycloak](https://keycloak.org/), one of the most widely used open source identity and access management systems in the world. Our extensions bring multi-tenancy, audit logging, a self-service admin portal, and more to enhance Keycloak for SaaS and on-prem use cases.
 
+## Our extensions
+- [Organizations](https://github.com/p2-inc/keycloak-orgs) Multi-tenancy and APIs.
+- [Events](https://github.com/p2-inc/keycloak-events) Audit logging and webhooks.
+- [Magic Link](https://github.com/p2-inc/keycloak-magic-link) Magic Link Authentication.
+- [Themes](https://github.com/p2-inc/keycloak-themes) Easy login and email UI customizations.
+- [Admin UI](https://github.com/p2-inc/keycloak-ui) Keycloak Admin UI customizations.
+
+## Come visit!
+- [Website](https://phasetwo.io)
+- [Blog](https://phasetwo.io/blog)
+- [Documentation](https://phasetwo.io/docs/introduction)
+- [APIs](https://phasetwo.io/api/)
+- [Blog](https://phasetwo.io/blog)
+- [Contact us](mailto:support@phasetwo.io)
