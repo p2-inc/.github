@@ -19,5 +19,4 @@ Phase Two builds on top of [Keycloak](https://keycloak.org/), one of the most wi
 - [Blog](https://phasetwo.io/blog)
 - [Documentation](https://phasetwo.io/docs/introduction)
 - [APIs](https://phasetwo.io/api/)
-- [Blog](https://phasetwo.io/blog)
 - [Contact us](mailto:support@phasetwo.io)
