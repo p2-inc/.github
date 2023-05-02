@@ -13,6 +13,7 @@ Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a 
 - [Magic Link](https://github.com/p2-inc/keycloak-magic-link) Passwordless authentication using links sent to email.
 - [Themes](https://github.com/p2-inc/keycloak-themes) Easy login UI and email content customizations.
 - [Admin UI](https://github.com/p2-inc/keycloak-ui) Keycloak Admin UI additions to administer our extensions directly from Keycloak.
+- [Admin Portal](https://github.com/p2-inc/phasetwo-admin-portal) User self-management for their account and organizations.
 
 ## Come visit!
 - [Website](https://phasetwo.io)
