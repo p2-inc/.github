@@ -19,5 +19,5 @@ Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a 
 - [Website](https://phasetwo.io)
 - [Blog](https://phasetwo.io/blog)
 - [Documentation](https://phasetwo.io/docs/introduction)
-- [APIs](https://phasetwo.io/api/)
+- [APIs](https://phasetwo.io/api/phase-two-admin-rest-api)
 - [Contact us](mailto:support@phasetwo.io)
