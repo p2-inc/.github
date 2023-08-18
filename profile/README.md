@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/244253/211920950-dcc9ae85-d3b3-4029-a2dc-069c663d6ee9.png#gh-dark-mode-only" alt="Phase Two Logo" width="344px" height="auto" />
 </p>
 
-Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a free, hosted deployment](https://phasetwo.io/dashboard/?utm_source=github&utm_medium=readme&utm_campaign=p2-inc). See the [announcement and demo video](https://phasetwo.io/blog/self-service/) for more information. :rocket:
+Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a free, hosted deployment](https://phasetwo.io/?utm_source=github&utm_medium=readme&utm_campaign=p2-inc). See the [announcement and demo video](https://phasetwo.io/blog/self-service/) and [dedicated cluster information](https://phasetwo.io/blog/dedicated-launch). :rocket:
 
 [Phase Two](https://phasetwo.io) builds on top of [Keycloak](https://keycloak.org/), one of the most widely used open source identity and access management systems in the world. Our extensions bring multi-tenancy, audit logging, a self-service admin portal, and more to enhance Keycloak for SaaS and on-prem use cases. Get started with our [Docker images](https://quay.io/repository/phasetwo/phasetwo-keycloak) for an easy, drop-in replacement for Keycloak.
 
