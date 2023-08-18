@@ -5,7 +5,7 @@
 
 Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a free, hosted deployment](https://phasetwo.io/?utm_source=github&utm_medium=readme&utm_campaign=p2-inc). See the [announcement and demo video](https://phasetwo.io/blog/self-service/) and [dedicated cluster information](https://phasetwo.io/blog/dedicated-launch). :rocket:
 
-[Phase Two](https://phasetwo.io) builds on top of [Keycloak](https://keycloak.org/), one of the most widely used open source identity and access management systems in the world. Our extensions bring multi-tenancy, audit logging, a self-service admin portal, and more to enhance Keycloak for SaaS and on-prem use cases. Get started with our [Docker images](https://quay.io/repository/phasetwo/phasetwo-keycloak) for an easy, drop-in replacement for Keycloak.
+[Phase Two](https://phasetwo.io) builds on top of [Keycloak](https://keycloak.org/), one of the most widely used open source identity and access management systems in the world. Our extensions bring multi-tenancy, audit logging, a self-service admin portal, and more to enhance Keycloak for SaaS and on-prem use cases. 
 
 ## Our extensions
 - [Organizations](https://github.com/p2-inc/keycloak-orgs) Simple multi-tenancy and role delegation via API.
@@ -15,9 +15,19 @@ Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a 
 - [Admin UI](https://github.com/p2-inc/keycloak/tree/21.1.1_orgs_admin_ui) Keycloak Admin UI additions to administer our extensions directly from Keycloak.
 - [Admin Portal](https://github.com/p2-inc/phasetwo-admin-portal) User self-management for their account and organizations.
 
+## Our Docker images
+- [Phase Two enhanced Keycloak](https://quay.io/repository/phasetwo/phasetwo-keycloak) Easy, drop-in replacement for Keycloak with all our extensions.
+- [Keycloak on CockroachDB](https://quay.io/repository/phasetwo/keycloak-crdb) Our Keycloak fork that supports [CRDB](https://www.cockroachlabs.com/) for the "legacy" store.
+  
+## Tools
+- [Keycloak theme templates](https://github.com/p2-inc/keycloak-theme-template) and free examples.
+- [Framework examples](https://github.com/p2-inc/examples) for securing apps.
+- [Java](https://github.com/p2-inc/phasetwo-java), [JS](https://github.com/p2-inc/phasetwo-js), [Python](https://github.com/p2-inc/phasetwo-python) Phase Two API libraries.
+  
 ## Come visit!
 - [Website](https://phasetwo.io)
 - [Blog](https://phasetwo.io/blog)
+- [Keycloak Guides](https://dev.to/phasetwo)
 - [Documentation](https://phasetwo.io/docs/introduction)
 - [APIs](https://phasetwo.io/api/phase-two-admin-rest-api)
 - [Contact us](mailto:support@phasetwo.io)
