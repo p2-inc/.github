@@ -7,7 +7,7 @@ Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a 
 
 [Phase Two](https://phasetwo.io) builds on top of [Keycloak](https://keycloak.org/), one of the most widely used open source identity and access management systems in the world. Our extensions bring multi-tenancy, audit logging, a self-service admin portal, and more to enhance Keycloak for SaaS and on-prem use cases. 
 
-## Our extensions
+## Our extensions ![stars](https://img.shields.io/github/stars/p2-inc)
 - [Organizations](https://github.com/p2-inc/keycloak-orgs) Simple multi-tenancy and role delegation via API.
 - [Events](https://github.com/p2-inc/keycloak-events) Audit logging for compliance and webhooks for user and system activity notifications.
 - [Magic Link](https://github.com/p2-inc/keycloak-magic-link) Passwordless authentication using links sent to email.
