@@ -18,7 +18,7 @@ Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a 
 
 ## Our Docker images
 - [Phase Two enhanced Keycloak](https://quay.io/repository/phasetwo/phasetwo-keycloak) Easy, drop-in replacement for Keycloak with all our extensions.
-- [Keycloak on CockroachDB](https://quay.io/repository/phasetwo/keycloak-crdb) Our Keycloak fork that supports [CRDB](https://www.cockroachlabs.com/) for the "legacy" store.
+- [Keycloak on CockroachDB](https://quay.io/repository/phasetwo/keycloak-crdb) Our Keycloak fork that supports [CRDB](https://www.cockroachlabs.com/).
   
 ## Tools
 - [Keycloak theme templates](https://github.com/p2-inc/keycloak-theme-template) and free examples.
