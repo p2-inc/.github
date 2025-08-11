@@ -26,6 +26,7 @@ Drop us a line 👋 [support@phasetwo.io](mailto:support@phasetwo.io)
 - [Keycloak theme templates](https://github.com/p2-inc/keycloak-theme-template) and free examples.
 - [Framework examples](https://github.com/p2-inc/examples) for securing apps.
 - [Java](https://github.com/p2-inc/phasetwo-java), [JS](https://github.com/p2-inc/phasetwo-js), [Python](https://github.com/p2-inc/phasetwo-python) Phase Two API libraries.
+- [Shadcn Theme Starter](https://github.com/p2-inc/keycloakify-starter-shadcn) - shadcn Keycloakify theme starter 
   
 ## Come visit!
 - [Website](https://phasetwo.io)
