@@ -3,9 +3,11 @@
     <img src="https://user-images.githubusercontent.com/244253/211920950-dcc9ae85-d3b3-4029-a2dc-069c663d6ee9.png#gh-dark-mode-only" alt="Phase Two Logo" width="344px" height="auto" />
 </p>
 
-Tools to accelerate SaaS time-to-market and enterprise adoption. [Sign up for a free, hosted deployment](https://phasetwo.io/?utm_source=github&utm_medium=readme&utm_campaign=p2-inc). See the [announcement and demo video](https://phasetwo.io/blog/self-service/) and [dedicated cluster information](https://phasetwo.io/blog/dedicated-launch). :rocket:
-
 [Phase Two](https://phasetwo.io) builds on top of [Keycloak](https://keycloak.org/), one of the most widely used open source identity and access management systems in the world. Our extensions bring multi-tenancy, audit logging, a self-service admin portal, and more to enhance Keycloak for SaaS and on-prem use cases. 
+
+🚀 [Launch a Free, Hosted Instance](https://dash.phasetwo.io/?utm_source=github&utm_medium=readme&utm_campaign=p2-inc)  
+🤙 Get [Keycloak Support](https://phasetwo.io/support?utm_source=github&utm_medium=readme&utm_campaign=p2-inc)  
+⚠️ Get [immediate, emergency Keycloak support](https://phasetwo.io/contact?utm_source=github&utm_medium=readme&utm_campaign=p2-inc)  
 
 Drop us a line 👋 [support@phasetwo.io](mailto:support@phasetwo.io)
 
@@ -29,9 +31,10 @@ Drop us a line 👋 [support@phasetwo.io](mailto:support@phasetwo.io)
 - [Shadcn Theme Starter](https://github.com/p2-inc/keycloakify-starter-shadcn) - shadcn Keycloakify theme starter 
   
 ## Come visit!
-- [Website](https://phasetwo.io)
-- [Blog](https://phasetwo.io/blog)
-- [Keycloak Guides](https://dev.to/phasetwo)
-- [Documentation](https://phasetwo.io/docs/introduction)
-- [APIs](https://phasetwo.io/api/phase-two-admin-rest-api)
-- [Contact us](mailto:support@phasetwo.io)
+
+🌐 [Website](https://phasetwo.io)  
+📝 [Blog](https://phasetwo.io/blog)  
+📘 [Keycloak Guides](https://dev.to/phasetwo)  
+📖 [Documentation](https://phasetwo.io/docs/introduction)  
+🤝 [APIs](https://phasetwo.io/api/phase-two-admin-rest-api)  
+📫 [Contact us](mailto:support@phasetwo.io)  
