@@ -17,6 +17,7 @@ Drop us a line 👋 [support@phasetwo.io](mailto:support@phasetwo.io)
 - [Admin UI](https://github.com/p2-inc/keycloak/tree/23.0.1_orgs_admin_ui) Keycloak Admin UI additions to administer our extensions directly from Keycloak.
 - [Admin Portal](https://github.com/p2-inc/phasetwo-admin-portal) User self-management for their account and organizations.
 - [IdP Wizards](https://github.com/p2-inc/idp-wizard) Identity Provider setup wizards for self-management of SSO admins and organizations.
+- [Redis Caching](https://github.com/p2-inc/keycloak-redis-cache) Infinispan cache replacement that is easier to run and manage.
 
 ## Our Docker images
 - [Phase Two enhanced Keycloak](https://quay.io/repository/phasetwo/phasetwo-keycloak) Easy, drop-in replacement for Keycloak with all our extensions.
