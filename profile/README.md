@@ -13,8 +13,7 @@ Drop us a line 👋 [support@phasetwo.io](mailto:support@phasetwo.io)
 - [Organizations](https://github.com/p2-inc/keycloak-orgs) Simple multi-tenancy and role delegation via API.
 - [Events](https://github.com/p2-inc/keycloak-events) Audit logging for compliance and webhooks for user and system activity notifications.
 - [Magic Link](https://github.com/p2-inc/keycloak-magic-link) Passwordless authentication using links sent to email.
-- [Themes](https://github.com/p2-inc/keycloak-themes) Easy login UI and email content customizations.
-- [Admin UI](https://github.com/p2-inc/keycloak/tree/23.0.1_orgs_admin_ui) Keycloak Admin UI additions to administer our extensions directly from Keycloak.
+- [Themes](https://github.com/p2-inc/keycloak-themes) Easy login UI and email content customizations. Also contains Phase Two Admin UI theme additions to administer our extensions directly from Keycloak.
 - [Admin Portal](https://github.com/p2-inc/phasetwo-admin-portal) User self-management for their account and organizations.
 - [IdP Wizards](https://github.com/p2-inc/idp-wizard) Identity Provider setup wizards for self-management of SSO admins and organizations.
 - [Redis Caching](https://github.com/p2-inc/keycloak-redis-cache) Infinispan cache replacement that is easier to run and manage.
