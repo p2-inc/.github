@@ -65,12 +65,12 @@ claude mcp add --transport http keycloak https://mcp.phasetwo.io/mcp
 ## 🛠️ Tools
 
 - [Java](https://github.com/p2-inc/phasetwo-java), [JS](https://github.com/p2-inc/phasetwo-js) and [Python](https://github.com/p2-inc/phasetwo-python) Phase Two API libraries.
-- [Keycloak theme template](https://github.com/p2-inc/keycloak-theme-template), [email theme template](https://github.com/p2-inc/keycloak-email-theme-template) and [shadcn Keycloakify starter](https://github.com/p2-inc/keycloakify-starter-shadcn).
+- [Keycloak theme template](https://github.com/p2-inc/keycloak-theme-template) and [email theme template](https://github.com/p2-inc/keycloak-email-theme-template).
 - [Framework examples](https://github.com/p2-inc/examples) for securing apps.
 
 ## 💜 Community
 
-We sponsor [Keycloakify](https://www.keycloakify.dev/?utm_source=phasetwo), the open source toolkit for building Keycloak login, account and email themes with React. Our [shadcn Keycloakify starter](https://github.com/p2-inc/keycloakify-starter-shadcn) is a ready-made place to begin.
+We sponsor [Keycloakify](https://www.keycloakify.dev/?utm_source=phasetwo), the open source toolkit for building Keycloak login, account and email themes with React. Its official [shadcn/ui + Tailwind starter](https://docs.keycloakify.dev/starter-themes/shadcn-ui-tailwind) is a ready-made place to begin.
 
 ## 👋 Come visit
 
