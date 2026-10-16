@@ -16,26 +16,21 @@
 [Phase Two](https://phasetwo.io/?utm_source=github&utm_medium=profile&utm_campaign=p2-inc) builds on [Keycloak](https://keycloak.org/), one of the most widely used open source identity and access management systems in the world. Our open source extensions add multi-tenancy, passwordless login, audit logging and webhooks, a self-service admin portal, and more — and we run all of it for you as a managed service.
 
 > [!TIP]
-> **Try Phase Two free for 30 days.** Every Starter cluster includes a 30-day free trial with all of our extensions built in. [Start your trial →](https://phasetwo.io/pricing/?utm_source=github&utm_medium=profile&utm_campaign=p2-inc)
+> **Run Keycloak in our cloud, no setup needed.** Every Phase Two cluster comes with all of our extensions built in. [Try it free with your own cluster →](https://dash.phasetwo.io/?utm_source=github&utm_medium=profile&utm_campaign=p2-inc)
 
 ## 🤖 Build with AI agents
 
-[Keycloak Skills](https://github.com/p2-inc/keycloak-skills) teach Claude Code, Cursor and Codex how to configure Keycloak and Phase Two: passwordless login (magic link, email OTP, passkeys), organization-restricted login, corporate SSO by email domain, social and enterprise identity providers, and cluster provisioning. They connect to our hosted MCP server, so your agent can check its work against your live deployment.
+[Keycloak Skills](https://github.com/p2-inc/keycloak-skills) ([launch post](https://phasetwo.io/blog/keycloak-skills-mcp-launch)) teach Claude Code, Cursor and Codex how to configure Keycloak and Phase Two: passwordless login (magic link, email OTP, passkeys), organization-restricted login, corporate SSO by email domain, social and enterprise identity providers, and cluster provisioning. They connect to our hosted MCP server, so your agent can check its work against your live deployment.
 
 ```sh
+# Install the skills (connects to our hosted MCP server)
 claude plugin marketplace add p2-inc/keycloak-skills
 claude plugin install phasetwo@keycloak-skills
-```
-
-The plugin connects the MCP server for you. To connect just the MCP server:
-
-```sh
+# Or connect to the MCP server directly
 claude mcp add --transport http keycloak https://mcp.phasetwo.io/mcp
 ```
 
-[Read the launch post →](https://phasetwo.io/blog/keycloak-skills-mcp-launch)
-
-## 🧩 Our extensions ![stars](https://img.shields.io/github/stars/p2-inc)
+## Our extensions ![stars](https://img.shields.io/github/stars/p2-inc)
 
 **Multi-tenancy and SSO**
 - [Organizations](https://github.com/p2-inc/keycloak-orgs) — Single-realm multi-tenancy and role delegation via API.
@@ -70,8 +65,12 @@ claude mcp add --transport http keycloak https://mcp.phasetwo.io/mcp
 ## 🛠️ Tools
 
 - [Java](https://github.com/p2-inc/phasetwo-java), [JS](https://github.com/p2-inc/phasetwo-js) and [Python](https://github.com/p2-inc/phasetwo-python) Phase Two API libraries.
-- [Keycloak theme template](https://github.com/p2-inc/keycloak-theme-template), [email theme template](https://github.com/p2-inc/keycloak-email-theme-template) and [shadcn Keycloakify starter](https://github.com/p2-inc/keycloakify-starter-shadcn).
+- [Keycloak theme template](https://github.com/p2-inc/keycloak-theme-template) and [email theme template](https://github.com/p2-inc/keycloak-email-theme-template).
 - [Framework examples](https://github.com/p2-inc/examples) for securing apps.
+
+## 💜 Community
+
+We sponsor [Keycloakify](https://www.keycloakify.dev/?utm_source=phasetwo), the open source toolkit for building Keycloak login, account and email themes with React. Its official [shadcn/ui + Tailwind starter](https://docs.keycloakify.dev/starter-themes/shadcn-ui-tailwind) is a ready-made place to begin.
 
 ## 👋 Come visit
 
