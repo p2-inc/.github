@@ -30,7 +30,7 @@ claude plugin install phasetwo@keycloak-skills
 claude mcp add --transport http keycloak https://mcp.phasetwo.io/mcp
 ```
 
-## 🧩 Our extensions ![stars](https://img.shields.io/github/stars/p2-inc)
+## Our extensions ![stars](https://img.shields.io/github/stars/p2-inc)
 
 **Multi-tenancy and SSO**
 - [Organizations](https://github.com/p2-inc/keycloak-orgs) — Single-realm multi-tenancy and role delegation via API.
@@ -67,6 +67,10 @@ claude mcp add --transport http keycloak https://mcp.phasetwo.io/mcp
 - [Java](https://github.com/p2-inc/phasetwo-java), [JS](https://github.com/p2-inc/phasetwo-js) and [Python](https://github.com/p2-inc/phasetwo-python) Phase Two API libraries.
 - [Keycloak theme template](https://github.com/p2-inc/keycloak-theme-template), [email theme template](https://github.com/p2-inc/keycloak-email-theme-template) and [shadcn Keycloakify starter](https://github.com/p2-inc/keycloakify-starter-shadcn).
 - [Framework examples](https://github.com/p2-inc/examples) for securing apps.
+
+## 💜 Community
+
+We sponsor [Keycloakify](https://www.keycloakify.dev/?utm_source=phasetwo), the open source toolkit for building Keycloak login, account and email themes with React. Our [shadcn Keycloakify starter](https://github.com/p2-inc/keycloakify-starter-shadcn) is a ready-made place to begin.
 
 ## 👋 Come visit
 
