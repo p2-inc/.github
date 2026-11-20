@@ -39,6 +39,7 @@ claude mcp add --transport http keycloak https://mcp.phasetwo.io/mcp
 
 **Authentication**
 - [Magic Link](https://github.com/p2-inc/keycloak-magic-link) — Passwordless authentication with links sent by email, plus email OTP.
+- [Native Apps](https://github.com/p2-inc/native-apps) — Native login screens for iOS, Android, React Native and Flutter apps, without a browser or web view.
 - [Atomic Auth Flows](https://github.com/p2-inc/keycloak-atomic-auth-flows) — Config as code to safely update authentication flows.
 
 **Events and email**
